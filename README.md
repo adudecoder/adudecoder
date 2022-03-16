@@ -1,7 +1,7 @@
-### Heyyy guys! I'm Victor 🤘🔥
+# Heyyy guys! I'm Victor 🤘🔥
 
 **I´m a front-end developer** that loves to learn new things! I also enjoy sharing my knowledge with other people (**that helps me to learn more too**). My current stack is PHP with Laravel for Web. I also can play a little bit on the **Back-end** with Node.JS + Express with TypeScript and C# and I know a little bit about **Pentest**. My objective is become a **FullStack Developer**.
-
+<br><br>
 <div align="center">
   <a href="https://github.com/adudecoder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adudecoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
