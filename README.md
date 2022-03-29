@@ -1,6 +1,6 @@
 # Heyyy guys! I'm Victor 🤘🔥
 
-**I´m a *Front-End* developer** that loves to learn new things! I also enjoy sharing my knowledge with other people (**that helps me to learn more too**). My current stack is PHP with Laravel for Web. I also can play a little bit on the **_Back-End_** with Node.JS + Express with TypeScript and C# and I know a little bit about **_Pentest_**. My objective is become a **_FullStack Developer_**.
+**I´m a *Front-End* developer Jr** that loves to learn new things! I also enjoy sharing my knowledge with other people (**that helps me to learn more too**). My current stack is PHP with Laravel for Web. I also can play a little bit on the **_Back-End_** with Node.JS + Express with TypeScript and C# and I know a little bit about **_Pentest_**. My objective is become a **_FullStack Developer_**.
 <br><br>
 <div align="center">
   <a href="https://github.com/adudecoder">
