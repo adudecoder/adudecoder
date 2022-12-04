@@ -1,6 +1,6 @@
 #  About Me:
 
-**I´m a *Front-End* developer Jr** that loves to learn new things! I also enjoy sharing my knowledge with other people (**that helps me to learn more too**). My current stack is PHP with Laravel for Web. I also can play a little bit on the **_Back-End_** with Node.JS + Express with TypeScript and C# and I know a little bit about **_Pentest_**. My objective is become a **_FullStack Developer_**.
+**I´m a *Front-End* developer Jr** that loves to learn new things! I also enjoy sharing my knowledge with other people (**that helps me to learn more too**). My current stack is Nuxt for Web. I also can play a little bit on the **_Back-End_** with PHP + Laravel 9 and I know a little bit about **_Pentest_**. My objective is become a **_FullStack Developer_**.
 <br><br>
 
 <div align="center">
