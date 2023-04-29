@@ -1,6 +1,6 @@
 #  About Me:
 
-**I´m a *Front-End* developer Jr** that loves to learn new things! I also enjoy sharing my knowledge with other people (**that helps me to learn more too**). My current stack is **Vue.Js 3**. I also can play on the **_Back-End_** with PHP + Laravel 9. Always focusing on good practices, adept at agile methodologies, especially **_Scrum_**.
+**I´m a *Front-End* developer Jr** that loves to learn new things! I also enjoy sharing my knowledge with other people (**that helps me to learn more too**). My current stack is **Vue.Js**. I also can play on the **_Back-End_** with PHP + Laravel. Always focusing on good practices, adept at agile methodologies, especially **_Scrum_**.
 <br><br>
 
 <div style="display: inline_block"><br>
